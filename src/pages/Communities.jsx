@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 import CommunityCard from "../components/CommunityCard";
-import CS from "../assets/Communities/cs.jpg";
-import RAS from "../assets/Communities/ras.jpg";
-import IAS from "../assets/Communities/ias.jpg";
-import WIE from "../assets/Communities/wie.jpg";
-import HKN from "../assets/Communities/hkn.jpg";
+import CS from "../assets/Communities/CS.jpg";
+import RAS from "../assets/Communities/RAS.jpg";
+import IAS from "../assets/Communities/IAS.jpg";
+import WIE from "../assets/Communities/Wie.jpg";
+import HKN from "../assets/Communities/HKN.jpg";
 import LogoCS from "../assets/Communities/cs_logo.jpeg";
 import LogoRAS from "../assets/Communities/ras_logo.jpeg";
 import LogoIAS from "../assets/Communities/ias_logo.jpeg";
