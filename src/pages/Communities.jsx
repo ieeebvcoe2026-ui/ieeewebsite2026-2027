@@ -17,11 +17,11 @@ import LogoBQC from "../assets/Communities/bqc.png";
 import LogoGamma from "../assets/Communities/gamma.png";
 import LogoDrishti from "../assets/Communities/drishti.png";
 import SigCard from "../components/SigCard";
-import CodeX from "../assets/Communities/bgcodex.png";
-import Gamma from "../assets/Communities/bggamma.png";
-import Bqc from "../assets/Communities/bgbqc.png";
-import Ecell from "../assets/Communities/bgecell.png";
-import Drishti from "../assets/Communities/bgdrishti.png"
+import CodeX from "../assets/Communities/bgcodexx.png";
+import Gamma from "../assets/Communities/bggammaa.png";
+import Bqc from "../assets/Communities/bgbqcc.png";
+import Ecell from "../assets/Communities/bgecelll.png";
+import Drishti from "../assets/Communities/bgdrishtii.png"
 
 const subchapters = [
   {
