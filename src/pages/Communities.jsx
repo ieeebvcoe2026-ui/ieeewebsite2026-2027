@@ -17,11 +17,11 @@ import LogoBQC from "../assets/Communities/bqc.png";
 import LogoGamma from "../assets/Communities/gamma.png";
 import LogoDrishti from "../assets/Communities/drishti.png";
 import SigCard from "../components/SigCard";
-import CodeX from "../assets/Communities/bgcodexx.png";
-import Gamma from "../assets/Communities/bggammaa.png";
+import CodeX from "../assets/Communities/bgcodexx.jpeg";
+import Gamma from "../assets/Communities/bggammaa.jpeg";
 import Bqc from "../assets/Communities/bgbqcc.png";
-import Ecell from "../assets/Communities/bgecelll.png";
-import Drishti from "../assets/Communities/bgdrishtii.png"
+import Ecell from "../assets/Communities/bgecelll.jpeg";
+import Drishti from "../assets/Communities/bgdrishtii.jpeg"
 
 const subchapters = [
   {
@@ -83,33 +83,33 @@ const subchapters = [
 
 const sigs = [
   {
-    name: "Code X",
+    // name: "Code X",
     logoSrc: LogoCodeX,
     teamPicSrc: CodeX,
     description:
       "Code X, under IEEE BVCOE, supports beginners in programming by offering projects, opportunities, and expert mentorship, fostering growth and collaboration.",
   },
   {
-    name: "E-Cell",
+    // name: "E-Cell",
     logoSrc: LogoECell,
     teamPicSrc: Ecell,
     description:
       "E-Cell helps and promotes entrepreneurship within students of our college. It will be conducting competitions in the fields of stock markets, crypto world, entrepreneurship and more.",
   },
   {
-    name: "BQC",
+    // name: "BQC",
     logoSrc: LogoBQC,
     teamPicSrc: Bqc,
     description: "BQC’s goal is to establish a quizzing community in the college and provide a platform for anyone interested in Quizzes and Crosswords. Quizzes and Trivia are something that intrigues everyone.",
   },
   {
-    name: "GAMMA",
+    // name: "GAMMA",
     logoSrc: LogoGamma,
     teamPicSrc: Gamma,
     description: "Gaming, Multi Media and Animation yearns to make a community where the members can show off their skills, learn different styles and ways to game or make creative content.",
   },
   {
-    name: "Drishti",
+    // name: "Drishti",
     logoSrc: LogoDrishti,
     teamPicSrc: Drishti,
     description:
