@@ -23,6 +23,16 @@ import volunteer22 from "../assets/team/Vol Suraj Bariwal.jpg";
 import volunteer23 from "../assets/team/Vol Tejasvita.jpg";
 import volunteer24 from "../assets/team/Vol Tushar_Kanti.png";
 import volunteer25 from "../assets/team/Vol Vaanya Gaur.jpg";
+import volunteer26 from "../assets/team/VolDev.jpg";
+import volunteer27 from "../assets/team/VolAshish.png";
+import volunteer28 from "../assets/team/Vol Shreyamittal.jpg";
+import volunteer29 from "../assets/team/Vol Ariba.jpg";
+import volunteer30 from "../assets/team/Vol Aanya.jpeg";
+import volunteer31 from "../assets/team/Vol Aakash.jpg";
+import volunteer32 from "../assets/team/Voltavishi.jpg";
+import volunteer33 from "../assets/team/VolDisha.jpg";
+import volunteer34 from "../assets/team/Volharman.jpg";
+import volunteer35 from "../assets/team/Volshubham.jpg";
 
 const TeamMember = ({name, role, image}) => {
   return (
@@ -68,6 +78,16 @@ const volunteers = [
   { image: volunteer23, name: "Tejasvita", role: "Volunteer" },
   { image: volunteer24, name: "Tushar Kanti", role: "Volunteer" },
   { image: volunteer25, name: "Vaanya Gaur", role: "Volunteer" },
+  { image: volunteer26, name: "Dev", role: "Volunteer" },
+  { image: volunteer27, name: "Ashish", role: "Volunteer" },
+  { image: volunteer28, name: "Shreya Mittal", role: "Volunteer" },
+  { image: volunteer29, name: "Ariba", role: "Volunteer" },
+  { image: volunteer30, name: "Aanya", role: "Volunteer" },
+  { image: volunteer31, name: "Aakash", role: "Volunteer" },
+  { image: volunteer32, name: "Tavishi", role: "Volunteer" },
+  { image: volunteer33, name: "Disha", role: "Volunteer" },
+  { image: volunteer34, name: "harman", role: "Volunteer" },
+  { image: volunteer35, name: "shubham", role: "Volunteer" },
 ];
 
 const Volunteers = ({ chaptername }) => {
