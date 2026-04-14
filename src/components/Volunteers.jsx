@@ -34,6 +34,8 @@ import volunteer33 from "../assets/team/VolDisha.jpg";
 import volunteer34 from "../assets/team/Volharman.jpg";
 import volunteer35 from "../assets/team/Volshubham.jpg";
 import volunteer36 from "../assets/team/VolAditya.jpg";
+import volunteer37 from "../assets/team/VolGurprem Rishi.jpg";
+import volunteer38 from "../assets/team/VolSarthak Saxena.jpg";
 
 const TeamMember = ({name, role, image}) => {
   return (
@@ -90,6 +92,9 @@ const volunteers = [
   { image: volunteer34, name: "harman", role: "Volunteer" },
   { image: volunteer35, name: "shubham", role: "Volunteer" },
   { image: volunteer36, name: "Aditya Kumar", role: "Volunteer" },
+  { image: volunteer37, name: "Gurprem Rishi", role: "Volunteer" },
+  { image: volunteer38, name: "Sarthak Saxena", role: "Volunteer" },
+
 ];
 
 const Volunteers = ({ chaptername }) => {
