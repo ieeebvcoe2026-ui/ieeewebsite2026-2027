@@ -4,7 +4,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import monicamam from "../assets/team/MonicaMam.png"
 import chair from "../assets/team/chairVivek.jpeg"
-import vicechair from "../assets/team/VCAyushNEW.jpg"
+import vicechair from "../assets/team/VCAyushnew.jpg"
 
 const coordinator = {
   image: monicamam,
