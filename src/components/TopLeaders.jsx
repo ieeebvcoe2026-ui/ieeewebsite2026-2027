@@ -4,7 +4,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import monicamam from "../assets/team/MonicaMam.png"
 import chair from "../assets/team/chairVivek.jpeg"
-import vicechair from "../assets/team/VCAyush.jpeg"
+import vicechair from "../assets/team/VCAyushNEW.jpg"
 
 const coordinator = {
   image: monicamam,
@@ -45,10 +45,10 @@ function Team({ name, role, image, linkedinUrl }) {
           <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-90 group-hover:opacity-90 transition-opacity duration-300 ease-in-out"></div>
         </div>
       </div>
-      <div className="absolute inset-0 flex flex-col justify-end items-center p-5 text-white transform rotate-45 translate-y-2 group-hover:translate-y-0 transition-transform duration-300 ease-in-out">
+      <div className="absolute inset-0 flex flex-col justify-end items-center p-3 text-white transform rotate-45 translate-y-2 group-hover:translate-y-0 transition-transform duration-300 ease-in-out">
         <div className="transform -rotate-45 text-center">
-          <h3 className="text-lg font-bold mb-1">{name}</h3>
-          <p className="text-md text-skyblue mb-3">{role}</p>
+          <h3 className="text-base font-bold mb-1 leading-tight">{name}</h3>
+          <p className="text-sm text-sky-400 mb-2">{role}</p>
           <a
             href={linkedinUrl}
             target="_blank"

@@ -37,7 +37,7 @@ import volunteer36 from "../assets/team/VolAditya.jpg";
 import volunteer37 from "../assets/team/VolGurprem.jpg";
 import volunteer38 from "../assets/team/VolSarthak.jpg";
 import volunteer39 from "../assets/team/VolKrithika.jpg";
-
+import volunteer40 from "../assets/team/atharva.jpg";
 const TeamMember = ({name, role, image}) => {
   return (
     <div className="font-poppins relative h-36 md:h-48 group" data-aos="fade-up">
@@ -96,6 +96,7 @@ const volunteers = [
   { image: volunteer37, name: "Gurprem Rishi", role: "Volunteer" },
   { image: volunteer38, name: "Sarthak Saxena", role: "Volunteer" },
   { image: volunteer39, name: "Krithika", role: "Volunteer" },
+  { image: volunteer40, name: "Atharva", role: "Volunteer" },
 
 ];
 
