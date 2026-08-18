@@ -10,6 +10,13 @@ import Shivam from "../assets/Achievements/6.png";
 import Eva from "../assets/Achievements/7.png";
 import Nikita from "../assets/Achievements/8.png";
 import Amol from "../assets/Achievements/9.png";
+import Ayush from "../assets/Achievements/10.jpeg";
+import Vivek from "../assets/Achievements/11.jpeg";
+import Priyanshi from "../assets/Achievements/12.jpeg";
+import Aditya from "../assets/Achievements/13.jpeg";
+import Divye from "../assets/Achievements/14.jpeg";
+import Tishya from "../assets/Achievements/15.jpeg";
+
 
 const awardData = [
    {
