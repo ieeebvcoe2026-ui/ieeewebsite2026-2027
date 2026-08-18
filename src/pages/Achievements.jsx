@@ -12,6 +12,48 @@ import Nikita from "../assets/Achievements/8.png";
 import Amol from "../assets/Achievements/9.png";
 
 const awardData = [
+   {
+    recipientImage: Ayush ,
+    recipientName: "Ayush Sharma",
+    awardName: "Outstanding WIE Student Volunteer Award",
+    eventName: "IEEE Delhi Section",
+    eventYear: "Student Awards Ceremony 2025",
+   },
+   {
+    recipientImage: Vivek,
+    recipientName: "Vivek Suryavanshi",
+    awardName: "Outstanding WIE Student Volunteer Award",
+    eventName: "IEEE Delhi Section",
+    eventYear: "Student Awards Ceremony 2025",
+    },
+   {
+    recipientImage: Aditya,
+    recipientName: "Anushka Mishra",
+    awardName: "Dr. JK Pal Memorial Award for the Best IEEE Student Volunteer",
+    eventName: "IEEE Delhi Section",
+    eventYear: "Student Awards Ceremony 2025",
+  },
+   {
+    recipientImage: Priyanshi,
+    recipientName: "Anushka Mishra",
+    awardName: "Dr. JK Pal Memorial Award for the Best IEEE Student Volunteer",
+    eventName: "IEEE Delhi Section",
+    eventYear: "Student Awards Ceremony 2025",
+  },
+   {
+    recipientImage: Tishya,
+    recipientName: "Tishya Nagpal",
+    awardName: "Outstanding Student Volunteer Award",
+    eventName: "IEEE Delhi Section",
+    eventYear: "Student Awards Ceremony 2025",
+  },
+  {
+    recipientImage: Divye,
+    recipientName: "Divye Chandna",
+    awardName: "Outstanding Student Volunteer Award",
+    eventName: "IEEE Delhi Section",
+    eventYear: "Student Awards Ceremony 2025",
+  },
   {
     recipientImage: Anushka,
     recipientName: "Anushka Mishra",
