@@ -49,14 +49,14 @@ const awardData = [
   },
    {
     recipientImage: Tishya,
-    recipientName: "Tishya Nagpal",
+    recipientName: "Divye Chandna",
     awardName: "Outstanding Student Volunteer Award",
     eventName: "IEEE Delhi Section",
     eventYear: "Student Awards Ceremony 2025",
   },
   {
     recipientImage: Divye,
-    recipientName: "Divye Chandna",
+    recipientName: "Tishya Nagpal",
     awardName: "Outstanding Student Volunteer Award",
     eventName: "IEEE Delhi Section",
     eventYear: "Student Awards Ceremony 2025",
