@@ -21,7 +21,7 @@ import Tishya from "../assets/Achievements/15.jpeg";
 const awardData = [
    {
     recipientImage: Ayush ,
-    recipientName: "Ayush Sharma",
+    recipientName: "Ayush Sharmaa",
     awardName: "Outstanding WIE Student Volunteer Award",
     eventName: "IEEE Delhi Section",
     eventYear: "Student Awards Ceremony 2025",
