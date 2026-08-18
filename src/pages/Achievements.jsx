@@ -21,7 +21,7 @@ import Tishya from "../assets/Achievements/15.jpeg";
 const awardData = [
    {
     recipientImage: Ayush ,
-    recipientName: "Ayush Sharmaa",
+    recipientName: "Ayush Sharma",
     awardName: "Outstanding WIE Student Volunteer Award",
     eventName: "IEEE Delhi Section",
     eventYear: "Student Awards Ceremony 2025",
@@ -35,14 +35,14 @@ const awardData = [
     },
    {
     recipientImage: Aditya,
-    recipientName: "Anushka Mishra",
+    recipientName: "Aditya Popli",
     awardName: "Dr. JK Pal Memorial Award for the Best IEEE Student Volunteer",
     eventName: "IEEE Delhi Section",
     eventYear: "Student Awards Ceremony 2025",
   },
    {
     recipientImage: Priyanshi,
-    recipientName: "Anushka Mishra",
+    recipientName: "Priyanshi Gupta ",
     awardName: "Dr. JK Pal Memorial Award for the Best IEEE Student Volunteer",
     eventName: "IEEE Delhi Section",
     eventYear: "Student Awards Ceremony 2025",
